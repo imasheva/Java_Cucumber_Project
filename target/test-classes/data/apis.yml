@@ -1,0 +1,8 @@
+apis:
+  baseUrl: "https://skryabin.com/recruit/api/v1/"
+#  positions
+
+login: /login
+
+
+
